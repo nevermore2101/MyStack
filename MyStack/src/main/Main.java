@@ -25,7 +25,8 @@ public class Main {
 		myStack.pop();
 		
 		myStack.display();
-
+		
+		//changes
 	}
 
 }
