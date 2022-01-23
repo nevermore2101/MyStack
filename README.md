@@ -1,2 +1,2 @@
 # MyStack
-A simple int stack implementation in Java and my first commit.
+A simple stack of integers implementation in Java and my first ever commit.
